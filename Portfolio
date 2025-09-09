@@ -70,7 +70,7 @@
 <body>
 
   <header>
-    <h1>John Doe</h1>
+    <h1>Aaditya Singh</h1>
     <p>Web Developer & Designer</p>
   </header>
 
@@ -100,7 +100,7 @@
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: john@example.com</p>
+    <p>Email: aaditya@gg.com</p>
     <p>GitHub: <a href="https://github.com/Aaditya-0" target="_blank">Aaditya</a></p>
   </section>
 
