@@ -82,7 +82,7 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Hello! I'm John, a passionate web developer with experience in building responsive websites and web applications. I enjoy solving problems and turning ideas into reality.</p>
+    <p>Hello! I'm Aaditya, a passionate web developer with experience in building responsive websites and web applications. I enjoy solving problems and turning ideas into reality.</p>
   </section>
 
   <section id="projects">
@@ -101,11 +101,11 @@
   <section id="contact">
     <h2>Contact</h2>
     <p>Email: john@example.com</p>
-    <p>GitHub: <a href="https://github.com/johndoe" target="_blank">johndoe</a></p>
+    <p>GitHub: <a href="https://github.com/Aaditya-0" target="_blank">Aaditya</a></p>
   </section>
 
   <footer>
-    <p>&copy; 2025 John Doe</p>
+    <p>&copy; 2025 Aaditya Singh</p>
   </footer>
 
   <script>
